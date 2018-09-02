@@ -12,7 +12,7 @@ public class Ship
 	public Ship(String n,String y)
 	{
 		name=n;
-	    year=y;
+	        year=y;
 	}
 	public String getName()
 	{
